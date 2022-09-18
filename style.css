@@ -1,0 +1,30 @@
+/* CSS styles */
+h1 {
+font-family: Impact, sans-serif;
+color: #CE5937;
+background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+padding: 40px;
+font-size: 50px;
+}
+
+nav {
+  position: fixed;
+  z-index: 2;
+}
+
+h2, #brushes, #frames, #paint {
+  background-color: lightpink;
+  border-radius: 1px;
+  color: white;
+}
+.prices {
+  font-weight: bold;
+  color: blue;
+}
+
+footer {
+  background-color: black;
+  max-width: 240px;
+  color: white;
+  border-radius: 5px;
+}
